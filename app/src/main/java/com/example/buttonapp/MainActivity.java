@@ -28,15 +28,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        }
-
-/*    class MyOnClickListener implements View.OnClickListener {
-
-        @Override
-        public void onClick(View v) {
-    //      mTextView1.setText("You clicked the button!");
-            mTextView1.setText(R.string.button_click_message);
-        }
-    }*/
+    }
 }
 
